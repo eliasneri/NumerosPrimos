@@ -11,6 +11,7 @@ public class primos {
 	 * 
 	 * o resultado para o numero primo deverá ser verdadeiro, e houver 2 divisores,
 	 * caso contrário, esse numero não é primo
+	 * 
 	 */
 
 	public static void main(String[] args) {
